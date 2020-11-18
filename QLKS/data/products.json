@@ -1,0 +1,22 @@
+[{
+ "id": 1,
+ "name": "PHÒNG LOẠI A",
+ "description": "Diện tích lớn, view đẹp, dịch vụ đầy đủ",
+ "price": 200000,
+ "image": "images",
+ "category_id": 2
+}, {
+ "id": 2,
+ "name": "PHÒNG LOẠI B",
+ "description": "diện tích trung bình",
+ "price": 170000,
+ "image": "images",
+ "category_id": 2
+}, {
+ "id": 3,
+ "name": "PHÒNG LOẠI C",
+ "description": "diện tích nhỏ",
+ "price": 150000,
+ "image": "images/",
+ "category_id": 2
+}]
